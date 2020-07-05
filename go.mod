@@ -1,4 +1,4 @@
-module invoicer-chapter2
+module github.com/JosiahOne/invoicer-chapter2
 
 go 1.13
 
