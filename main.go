@@ -223,6 +223,7 @@ func (iv *invoicer) getIndex(w http.ResponseWriter, r *http.Request) {
     </head>
     <body>
 	<h1>Invoicer Web</h1>
+	<h2>Josiah's version</h2>
 	<p><a href="/authenticate">Authenticate with Google</a></p>
 	</p>
         <p class="desc-invoice"></p>
